@@ -1,4 +1,4 @@
-CREATE DATABASE sales_profitability;
+CREATE DATABASE IF NOT EXISTS sales_profitability;
 
 USE sales_profitability;
 SELECT COUNT(*) AS total_records
