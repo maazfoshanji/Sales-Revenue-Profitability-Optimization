@@ -1,10 +1,10 @@
-# Sales-Revenue-Profitability-Optimization \& Profitability Analysis
+# Sales Revenue & Profitability Optimization
 
-End-to-end **Data Analyst portfolio project** using Excel, SQL, Python/Pandas and data visualization to analyze retail sales, profitability, regional performance, category performance and loss-making transactions.
+This project examines retail sales data to understand what drives revenue and profitability across different regions and product categories. Using SQL, Python, and Excel, I analyzed 7,500 transactions, explored sales patterns, and identified areas where the business was losing money. The goal was to turn the data into useful insights that could support better pricing, discounting, and business decisions.
 
 ## Project Overview
 
-The project analyzes a realistic retail dataset covering **2023–2025**. The workflow includes raw-data cleaning, business KPI analysis, SQL queries, Python EDA, Excel reporting and dashboard creation.
+I worked with retail transaction data from 2023 through 2025, starting with cleaning the dataset and removing duplicate records. From there, I used SQL to examine sales performance, product profitability, regional trends, and the impact of discounts. I also used Python to explore the data and created an Excel dashboard to summarize key results. One finding was that 402 transactions were unprofitable, highlighting opportunities to review discounting and improve profit margins.
 
 ## Dataset Summary
 
@@ -46,30 +46,30 @@ The project analyzes a realistic retail dataset covering **2023–2025**. The wo
 
 ### Profit by Region
 
-!\[Profit by Region](profit\_by\_region.png)
+![Profit by Region](profit_by_region.png)
 
 ### Profit by Category
 
-!\[Profit by Category](profit\_by\_category.png)
+![Profit by Category](profit_by_category.png)
 
 ### Monthly Net Sales Trend
 
-!\[Monthly Net Sales Trend](monthly\_net\_sales\_trend.png)
+![Monthly Net Sales Trend](monthly_net_sales_trend.png)
 
 ## Repository Files
 
 |File|Purpose|
 |-|-|
-|`retail\_sales\_raw.csv`|Original raw dataset|
-|`retail\_sales\_cleaned.csv`|Cleaned dataset used for analysis|
-|`Retail\_Business\_Analysis.xlsx`|Excel analysis, KPI summary and dashboard|
-|`retail\_analysis.sql`|SQL business-analysis queries|
+|`retail_sales_raw.csv`|Original raw dataset|
+|`retail_sales_cleaned.csv`|Cleaned dataset used for analysis|
+|`Retail_Business_Analysis.xlsx`|Excel analysis, KPI summary and dashboard|
+|`retail_analysis.sql`|SQL business-analysis queries|
 |`Retail_sales_analysis.sql`|Additional SQL queries for retail sales and profitability analysis|
-|`retail\_analysis.py`|Python/Pandas analysis script|
-|`business\_insights.md`|Detailed findings and recommendations|
-|`profit\_by\_region.png`|Regional profitability visualization|
-|`profit\_by\_category.png`|Category profitability visualization|
-|`monthly\_net\_sales\_trend.png`|Monthly sales trend visualization|
+|`retail_analysis.py`|Python/Pandas analysis script|
+|`business_insights.md`|Detailed findings and recommendations|
+|`profit_by_region.png`|Regional profitability visualization|
+|`profit_by_category.png`|Category profitability visualization|
+|`monthly_net_sales_trend.png`|Monthly sales trend visualization|
 
 ## Data Cleaning Performed
 
