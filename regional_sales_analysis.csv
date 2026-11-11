@@ -1,0 +1,6 @@
+Region,total_transactions,total_revenue,total_profit,profit_margin_percentage,loss_making_transactions
+South,1552,42292980.02,7335624.96,17.34,74
+East,1464,40664791.32,7328586.1,18.02,79
+Central,1510,39799745.57,6879076.65,17.28,90
+West,1494,38072433.84,6771724.46,17.79,85
+North,1480,38024997.62,6552405.71,17.23,74

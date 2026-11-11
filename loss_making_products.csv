@@ -1,0 +1,11 @@
+Product,Category,total_transactions,loss_making_transactions,total_losses,average_discount_pct
+Ultrabook,Technology,311,30,-108203.12,9.39
+"USB Hub",Technology,208,25,-107824.07,10.1
+"Student Laptop",Technology,277,29,-101507.18,9.37
+"Smartphone A",Technology,236,26,-98002.39,9.98
+"Budget Phone",Technology,209,24,-79548.17,10.12
+"Wireless Mouse",Technology,194,19,-69437.34,9.28
+"Power Bank",Technology,182,18,-62271.17,10.08
+"Business Laptop",Technology,255,30,-61866.12,9.67
+"Smartphone B",Technology,207,14,-54833.35,8.53
+Keyboard,Technology,223,25,-52697.22,9.96

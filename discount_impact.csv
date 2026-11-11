@@ -1,0 +1,7 @@
+discount_percentage,total_transactions,loss_making_transactions,average_profit,loss_rate_percentage
+0,2417,0,7511.21,0.00
+5,1210,0,5873.81,0.00
+10,1366,0,4407.24,0.00
+15,1005,0,2981.43,0.00
+20,868,44,1700.91,5.07
+30,634,358,-1399.88,56.47

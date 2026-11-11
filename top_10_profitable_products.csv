@@ -1,0 +1,11 @@
+Product,Category,total_transactions,total_revenue,total_profit,profit_margin_percentage
+Ultrabook,Technology,311,14844540.04,2229961.43,15.02
+"Business Laptop",Technology,255,13089648.44,2123280.13,16.22
+Keyboard,Technology,223,12350572.55,2063338.4,16.71
+"Student Laptop",Technology,277,13903810.55,2043978.79,14.7
+"Wireless Mouse",Technology,194,10563076.56,1678838.7,15.89
+"Cushion Set",Furniture,303,8150572.11,1631773.31,20.02
+"USB Hub",Technology,208,11191041.88,1618029.03,14.46
+"Smartphone B",Technology,207,9739920.87,1554234.85,15.96
+"Computer Table",Furniture,279,7563513.55,1534088.79,20.28
+"Ergonomic Chair",Furniture,293,7420806.92,1526019,20.56
