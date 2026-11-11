@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("../data/processed/retail_sales_cleaned.csv", parse_dates=["Order_Date"])
+df = pd.read_csv("retail_sales_cleaned.csv", parse_dates=["Order_Date"])
 
 print("Rows:", len(df))
 print("Unique customers:", df["Customer_ID"].nunique())
