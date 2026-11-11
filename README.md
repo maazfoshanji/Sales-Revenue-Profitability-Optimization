@@ -1,4 +1,4 @@
-# Retail Business Performance \& Profitability Analysis
+# Sales-Revenue-Profitability-Optimization \& Profitability Analysis
 
 End-to-end **Data Analyst portfolio project** using Excel, SQL, Python/Pandas and data visualization to analyze retail sales, profitability, regional performance, category performance and loss-making transactions.
 
